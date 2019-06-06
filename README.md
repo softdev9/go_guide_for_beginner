@@ -1,6 +1,6 @@
 # go_guide_for_beginner
 ---
-[(https://cdn-images-1.medium.com/max/240/1*vHUiXvBE0p0fLRwFHZuAYw.gif)](https://medium.com/tag/golang)
+[![build status](https://cdn-images-1.medium.com/max/240/1*vHUiXvBE0p0fLRwFHZuAYw.gif)](https://medium.com/tag/golang)
 
 
 ### What is Go program?
