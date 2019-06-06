@@ -1,6 +1,6 @@
 # Writing Simple Go program
 
-[![build status](https://cdn-images-1.medium.com/max/240/1*vHUiXvBE0p0fLRwFHZuAYw.gif)](https://medium.com/tag/golang)![build status](https://firebasestorage.googleapis.com/v0/b/trendee-f1a15.appspot.com/o/1_vHUiXvBE0p0fLRwFHZuAYw.gif?alt=media&token=92e7d87c-e5ff-4a71-ba3d-3c29e3968ad3)![build status](https://firebasestorage.googleapis.com/v0/b/trendee-f1a15.appspot.com/o/1_vHUiXvBE0p0fLRwFHZuAYw.gif?alt=media&token=92e7d87c-e5ff-4a71-ba3d-3c29e3968ad3)
+[![build status](https://cdn-images-1.medium.com/max/240/1*vHUiXvBE0p0fLRwFHZuAYw.gif)](https://medium.com/tag/golang)
 
 
 ### What is Go program?
