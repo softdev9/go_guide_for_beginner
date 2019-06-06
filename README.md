@@ -1,6 +1,6 @@
 # Writing Simple Go program
-
 ---
+
 [![build status](https://cdn-images-1.medium.com/max/240/1*vHUiXvBE0p0fLRwFHZuAYw.gif)](https://medium.com/tag/golang)
 
 
