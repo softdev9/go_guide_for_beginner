@@ -1,11 +1,6 @@
 # go_guide_for_beginner
 ---
-[![build status](https://img.shields.io/travis/erikras/react-redux-universal-hot-example/master.svg?style=flat-square)](https://travis-ci.org/erikras/react-redux-universal-hot-example)
-[![react-redux-example channel on slack](https://img.shields.io/badge/slack-react--redux--example%40reactiflux-blue.svg)](http://www.reactiflux.com)
-[![Demo on Heroku](https://img.shields.io/badge/demo-heroku-lightgrey.png)](https://react-redux.herokuapp.com)
-[![Dependency Status](https://david-dm.org/erikras/react-redux-universal-hot-example.svg)](https://david-dm.org/erikras/react-redux-universal-hot-example)
-[![devDependency Status](https://david-dm.org/erikras/react-redux-universal-hot-example/dev-status.svg)](https://david-dm.org/erikras/react-redux-universal-hot-example#info=devDependencies)
-[![PayPal donate button](http://img.shields.io/paypal/donate.png?color=yellowgreen)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=E2LK57ZQ9YRMN)
+[(https://cdn-images-1.medium.com/max/240/1*vHUiXvBE0p0fLRwFHZuAYw.gif)](https://medium.com/tag/golang)
 
 
 ### What is Go program?
